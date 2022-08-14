@@ -1,0 +1,27 @@
+{
+  "name": "punto-de-venta-mern-front",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jairoalperez/Punto-de-Venta-MERN-Front.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jairoalperez/Punto-de-Venta-MERN-Front/issues"
+  },
+  "homepage": "https://github.com/jairoalperez/Punto-de-Venta-MERN-Front#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "pg": "^8.7.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
