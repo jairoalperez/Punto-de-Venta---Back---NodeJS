@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/jairoalperez/Punto-de-Venta-MERN-Front#readme",
   "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
     "express": "^4.18.1",
     "pg": "^8.7.3"
   },
